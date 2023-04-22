@@ -1,0 +1,52 @@
+.card-img-top {
+    height: 250px;
+}
+
+.row {
+    background-color: rgba(129, 178, 216, 0);
+}
+
+.navbar {
+   background-color: rgb(7, 0, 43);
+}
+
+.body {
+    background-color: rgb(61, 45, 65);
+}
+
+.body2 {
+    background-color: rgb(255, 255, 255);
+}
+
+.body3 {
+    background-color: rgb(255, 255, 255);
+}
+
+.card-body {
+    background-color: rgb(199, 199, 199);
+}
+
+.p-5 {
+    background-image: url(/img/Schermopname\ \(8\).png);
+    height: 706px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.mask {
+    background-color: rgba(0, 0, 0, 0.231);
+}
+
+.text-color a {
+    color: rgb(255, 255, 255);
+}
+
+.text-color {
+    color: rgb(255, 255, 255);
+}
+
+.no-contact {
+    text-align: center;
+    
+}
